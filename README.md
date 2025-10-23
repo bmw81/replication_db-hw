@@ -23,3 +23,11 @@
 ![DBeaver](/img/DBeaver.png)
 
 ![DB_containers](/img/DB_containers.png)
+
+[Файл конфигурации мастера master.cnf](master.cnf)
+
+[Файл инициализации мастера master.sql](master.sql)
+
+[Файл конфигурации слейва slave.cnf](slave.cnf)
+
+[Файл инициализации слейва slave.sql](slave.sql)
